@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<RCC version="1.0">
+    <qresource prefix="/Assignment_06_ex_HIEUTH12">
+        <file alias="with_human.qml">../../with_human.qml</file>
+        <file alias="with_bot.qml">../../with_bot.qml</file>
+        <file alias="main.qml">../../main.qml</file>
+        <file alias="win.qml">../../win.qml</file>
+    </qresource>
+</RCC>

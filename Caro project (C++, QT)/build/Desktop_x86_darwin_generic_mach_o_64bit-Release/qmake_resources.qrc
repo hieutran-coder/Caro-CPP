@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/Assignment_06_ex_HIEUTH12">
+<file alias="with_human.qml">/Users/mac/Documents/Google_Drive_1/FPT Fresher/QT Framework/QML/Assignment_06_ex_HIEUTH12/with_human.qml</file>
+<file alias="with_bot.qml">/Users/mac/Documents/Google_Drive_1/FPT Fresher/QT Framework/QML/Assignment_06_ex_HIEUTH12/with_bot.qml</file>
+<file alias="main.qml">/Users/mac/Documents/Google_Drive_1/FPT Fresher/QT Framework/QML/Assignment_06_ex_HIEUTH12/main.qml</file>
+<file alias="win.qml">/Users/mac/Documents/Google_Drive_1/FPT Fresher/QT Framework/QML/Assignment_06_ex_HIEUTH12/win.qml</file>
+</qresource>
+</RCC>
