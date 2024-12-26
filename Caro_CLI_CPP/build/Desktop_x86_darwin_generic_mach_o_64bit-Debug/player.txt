@@ -1,0 +1,11 @@
+Tran Van Hanh, 5, 2, 1
+Vuong Dinh An, 2, 2, 10
+Nguyen Thi Kieu, 3, 2, 5
+Tran Huu Hung, 4, 2, 1
+Tran Van Hanh, 2, 2, 5
+Le Van Hanh, 2, 2, 3
+Tran Huu Hanh, 2, 4, 2
+Tran Van Hao, 2, 3, 1
+Nguyen Thanh Cong, 2, 5, 1
+Tran Van Hanh, 5, 2, 1
+ha, 0, 0, 0
