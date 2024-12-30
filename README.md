@@ -1,5 +1,5 @@
 # CLI APP
-## It has these functionalities like:
+## Functionalities:
 
 ![image](https://github.com/user-attachments/assets/cc99651d-d7d8-4450-86dc-f98765194fc8)
 
